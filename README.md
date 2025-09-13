@@ -1,4 +1,4 @@
-# A Compilation of Masterpieces in Problems | 难题杰作编译
+# A Compilation of Masterpieces in Problems | 难题集萃
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your_github_username/your_repository_name/pulls)
@@ -24,7 +24,7 @@ This repository is an open-source collection of what I consider to be "masterpie
 
 The name "Masterpieces in Problems" reflects the core idea: these problems are not merely difficult; they are works of art. Each one has been selected for its ability to illuminate a fundamental concept, demonstrate a surprising result, or employ a particularly clever method of solution. This living document is compiled in LaTeX and will grow over time with contributions from the community.
 
-“难题杰作编译”这一名称反映了项目的核心思想：这些难题不仅仅是困难，它们更是艺术品。每一道题都因其能阐明一个基本概念、展示一个惊人结果、或运用一个特别巧妙的解决方法而被选中。本文档由 LaTeX 编写，是一个“活”的文档，期待随着社区的贡献而不断丰富。
+“难题集萃”这一名称反映了项目的核心思想：这些难题不仅仅是困难，它们更是艺术品。每一道题都因其能阐明一个基本概念、展示一个惊人结果、或运用一个特别巧妙的解决方法而被选中。本文档由 LaTeX 编写，是一个“活”的文档，期待随着社区的贡献而不断丰富。
 
 ## 📁 Content Structure | 内容结构
 
